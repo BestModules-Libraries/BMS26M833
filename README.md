@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMS56M605_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMS26M833_V1.0.png" width="320" height="240"> 
 </div> 
 
-BMS56M605 
+BMS26M833 
 ===========================================================
 
-The BMS56M605 is a gyroscope and accelerometer module from Best Modules, which uses the I2C communication method. This document provides the description of the BMS56M605 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the functions of reading the 6-axis data and motion detection.
+The Best Modules BMS26M833 is a 8×8 infrared thermopile array module, which uses the I2C communication method. This document provides the description of the BMS26M833 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of reading the temperature values.
 
-This library can be installed via the Arduino Library manager. Search for **BMS56M605**. 
+This library can be installed via the Arduino Library manager. Search for **BMS26M833**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMS56M605 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bms56m605.html#tab-product2 )** - Arduino Library Description.
+* **[BMS26M833 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bms26m833.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
